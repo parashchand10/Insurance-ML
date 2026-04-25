@@ -5,7 +5,7 @@ import numpy as np
 
 # Load the saved model and scaler
 model = pickle.load(open('insurance_model.pkl', 'rb'))
-scaler = pickle.load(open('scaler.pkl', 'rb'))
+scaler = pickle.load(open('insurance_scaler.pkl', 'rb'))
 
 st.title("Medical Insurance Cost Predictor")
 st.write("Enter the details below to estimate insurance charges.")
