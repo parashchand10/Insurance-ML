@@ -24,7 +24,11 @@ List the tools and libraries are used:
 ---
 
 ```
-Installation & UsageGive clear commands for others to replicate your work:Bash# Clone the repository
+Installation & Usage
+
+Give clear commands for others to replicate your work:
+
+# Clone the repository
 git clone https://github.com/parashchand10/Insurance-ML.git
 
 # Install dependencies
