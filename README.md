@@ -1,12 +1,12 @@
 # Insurance-ML
 
-Project Overview
+### Project Overview
 
 This project predicts health insurance premiums for individuals based on their demographic and health data (age, BMI, smoking status, etc.) using Machine Learning.
 
 ---
 
-Dataset Information
+### Dataset Information
 
 Describe the data used to train the model. Most insurance projects use the Insurance Dataset, which includes:
 
@@ -15,7 +15,7 @@ Describe the data used to train the model. Most insurance projects use the Insur
 
 ---
 
-Tech Stack
+### Tech Stack
 
 List the tools and libraries are used:
 - Language: Python
@@ -23,9 +23,9 @@ List the tools and libraries are used:
 
 ---
 
-```
-Installation & Usage
 
+### Installation & Usage
+```
 Give clear commands for others to replicate your work:
 
 # Clone the repository
