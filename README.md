@@ -1,5 +1,10 @@
 # Insurance-ML
 
+---
+<img src="Insurance.png" alt="steamlit Project" width="1000" height="1000" />
+
+---
+
 ### Project Overview
 
 This project predicts health insurance premiums for individuals based on their demographic and health data (age, BMI, smoking status, etc.) using Machine Learning.
