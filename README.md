@@ -1,4 +1,4 @@
-# Insurance-ML
+#Insurance Charges Prediction - Streamlit Web App
 
 ---
 <img src="Insurance.png" alt="steamlit Project" width="1000" height="1000" />
